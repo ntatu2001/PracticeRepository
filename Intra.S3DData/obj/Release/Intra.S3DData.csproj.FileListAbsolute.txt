@@ -1,0 +1,8 @@
+C:\Users\AnhTu\Member Structure Detection\Intra.S3DData\Intra.S3DData\bin\Release\Intra.GeometryDetection.pdb
+C:\Users\AnhTu\Member Structure Detection\Intra.S3DData\Intra.S3DData\bin\Release\Intratech.Cores.dll
+C:\Users\AnhTu\Member Structure Detection\Intra.S3DData\Intra.S3DData\obj\Release\Intra.S3DData.csproj.AssemblyReference.cache
+C:\Users\AnhTu\Member Structure Detection\Intra.S3DData\Intra.S3DData\obj\Release\Intra.S3DData.csproj.CoreCompileInputs.cache
+C:\Users\AnhTu\Member Structure Detection\Intra.S3DData\Intra.S3DData\obj\Release\Intra.S3DData.csproj.CopyComplete
+C:\Users\AnhTu\Member Structure Detection\Intra.S3DData\Intra.S3DData\obj\Release\Intra.GeometryDetection.pdb
+C:\Users\AnhTu\Member Structure Detection\Intra.S3DData\Intra.S3DData\bin\Release\Intra.GeometryDetection.exe
+C:\Users\AnhTu\Member Structure Detection\Intra.S3DData\Intra.S3DData\obj\Release\Intra.GeometryDetection.exe
