@@ -1,0 +1,9 @@
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\bin\Debug\Intra.MemberDetector.dll
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\bin\Debug\Intra.MemberDetector.pdb
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\bin\Debug\Intratech.Cores.dll
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\obj\Debug\Intra.MemberDetector.csproj.AssemblyReference.cache
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\obj\Debug\Intra.MemberDetector.csproj.CoreCompileInputs.cache
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\obj\Debug\Intra.MemberDetector.csproj.CopyComplete
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\obj\Debug\Intra.MemberDetector.dll
+C:\Users\AnhTu\Member Structure Detection\Intra.MemberDetector\Intra.MemberDetector\obj\Debug\Intra.MemberDetector.pdb
