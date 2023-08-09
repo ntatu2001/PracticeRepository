@@ -1,0 +1,11 @@
+C:\Program Files\Autodesk\Navisworks Manage 2024\Plugins\MemberDetection\MemberDetection.dll
+C:\Program Files\Autodesk\Navisworks Manage 2024\Plugins\MemberDetection\MemberDetection.pdb
+C:\Users\AnhTu\Member Structure Detection\MemberDetection\MemberDetection\obj\Debug\MemberDetection.csproj.AssemblyReference.cache
+C:\Users\AnhTu\Member Structure Detection\MemberDetection\MemberDetection\obj\Debug\MemberDetection.csproj.CoreCompileInputs.cache
+C:\Users\AnhTu\Member Structure Detection\MemberDetection\MemberDetection\obj\Debug\MemberDetection.dll
+C:\Users\AnhTu\Member Structure Detection\MemberDetection\MemberDetection\obj\Debug\MemberDetection.pdb
+C:\Users\AnhTu\Member Structure Detection\MemberDetection\MemberDetection\obj\Debug\MemberDetection.Screen.resources
+C:\Users\AnhTu\Member Structure Detection\MemberDetection\MemberDetection\obj\Debug\MemberDetection.csproj.GenerateResource.cache
+C:\Users\AnhTu\Member Structure Detection\MemberDetection\MemberDetection\obj\Debug\MemberDetection.csproj.CopyComplete
+C:\Users\AnhTu\Member Structure Detection\MemberDetection\MemberDetection\obj\Debug\MemberDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Autodesk\Navisworks Manage 2024\Plugins\MemberDetection\MemberDetection.dll.config
